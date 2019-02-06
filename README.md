@@ -1,5 +1,7 @@
 # Brewski++
-##### Brewski++ will be a personal beer logging website which allows the user to add beers that they have tried as well as search other useful information about the beer.  Additionally, find new beers and add them to your list!
+##### Brewski++ is a personal beer logging website which allows the user to add beers that they have tried as well as search other useful information about the beer.  Additionally, find new beers and add them to your list!
+
+![alt text](https://i.imgur.com/Z4AZHDg.png "Brewskii++ Homepage")
 
 ## Dependencies
 * ##### Dotnet Core 2.1 SDK
